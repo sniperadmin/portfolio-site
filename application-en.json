@@ -1,0 +1,129 @@
+{
+    "logo" : "Logo Here",
+    "home" : "Home",
+    "about" : "About",
+    "projects" : "Projects",
+    "gallery" : "Gallery",
+    "testimonials" : "Testimonials",
+    "articles": "Articles",
+    "contact" : "Contact",
+    "ar" : "AR",
+    "title": "Creative Agency",
+    "main" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit deleniti consequuntur nihil.",
+    "visit" : "Visit us",
+    "heading" : "Why is it so great?",
+    "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+
+    "g1" : {
+        "t" : "Safety",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit enim ad minima veniam, quis nostrum exercitationem ullam. Reprehenderit maiores aperiam assumenda deleniti hic."
+    },
+    
+    "g2" : {
+        "t" : "Technology",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit enim ad minima veniam, quis nostrum exercitationem ullam. Reprehenderit maiores aperiam assumenda deleniti hic."
+    },
+
+    "g3" : {
+        "t" : "Finance",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit enim ad minima veniam, quis nostrum exercitationem ullam. Reprehenderit maiores aperiam assumenda deleniti hic."
+    },
+
+    "heading2" : "Our best projects",
+    "paragraph" : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum.",
+
+    "card" : {
+        "title": "Title of the news",
+        "p" : "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae.",
+        "btn" : "View project"
+    },
+    "card1" : {
+        "title": "Title of the news",
+        "p" : "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae.",
+        "btn" : "View project"
+    },
+    "card2" : {
+        "title": "Title of the news",
+        "p" : "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae.",
+        "btn" : "View project"
+    },
+
+    "best-projects" : "Our best projects",
+    "dummy" : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum.",
+
+    "figures" : {
+        "item1" : "The name of product",
+        "item2" : "The name of product",
+        "item3" : "The name of product",
+        "item4" : "The name of product"
+    },
+    
+    "testimonia" : "Testimonials",
+
+    "quotes" : {
+        "writer1" : "Anna Deynah",
+        "title1" : "Founder at ET Company",    
+        "quote1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore cum accusamus eveniet molestias voluptatum inventore laboriosam labore sit, aspernatur praesentium iste impedit quidem dolor veniam.",
+
+        "writer2" : "John Doe",
+        "title2" : "Web Developer",    
+        "quote2" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore cum accusamus eveniet molestias voluptatum inventore laboriosam labore sit, aspernatur praesentium iste impedit quidem dolor veniam.",
+
+        "writer3" : "Maria Kate",
+        "title3" : "Photographer",    
+        "quote3" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore cum accusamus eveniet molestias voluptatum inventore laboriosam labore sit, aspernatur praesentium iste impedit quidem dolor veniam."
+    },
+
+    "banner" :{
+        "text" : "Photography",
+        "title" : "Banner with image overlay",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur obcaecati vero aliquid libero doloribus ad, unde tempora maiores, ullam, modi qui quidem minima debitis perferendis vitae cumque et quo impedit.",
+        "orangebtn" : "View project"
+    },
+
+    "menu1" : {
+        "name" : "Culinary",
+        "title" : "Cheat day inspirations",
+        "text" : "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi.",
+        "btn" : "Button"
+    },
+
+    "menu2" : {
+        "name" : "Culinary",
+        "title" : "Cheat day inspirations",
+        "text" : "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi.",
+        "btn" : "Button"
+    },
+
+    "menu3" : {
+        "name" : "Culinary",
+        "title" : "Cheat day inspirations",
+        "text" : "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi.",
+        "btn" : "Button"
+    },
+
+    "contactus" : {
+        "name" : "Contact us",
+        "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur veniam."
+    },
+
+    "form" : {
+        "name": "Your Name",
+        "mail" : "Your E-Mail",
+        "subject" : "Subject",
+        "message" : "Message",
+        "submit" : "Send"
+    },
+
+    "info" : {
+        "address" : "San Francisco, CA 94126, USA",
+        "phone" : "+ 01 234 567 89",
+        "mail" : "contact@example.com"
+    },
+
+    "footer" : {
+        "copy" : "Copyright © 2018 : ",
+        "name" : "Nasr Galal"
+    }
+
+}
